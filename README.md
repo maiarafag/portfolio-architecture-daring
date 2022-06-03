@@ -12,7 +12,7 @@
 
 # Objetivo
 <p>
- Apresentar porfólio com alguns exemplos de Arquitetura Ousada pelo mundo
+ Apresentar portfólio com alguns exemplos de Arquitetura Ousada pelo mundo
 </p>
 
 # Tecnologias
