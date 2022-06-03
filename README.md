@@ -1,6 +1,6 @@
 <h1>Portólio de Arquitetura Ousada </h1>
 
-<p>Projeto de Portfólio de Arquitetura usando somente HTLM e CSS</p>
+<p>Projeto de Portfólio de Arquitetura Ousada usando somente HTLM e CSS</p>
 
 # Sobre 
 <p>
